@@ -1,0 +1,24 @@
+<template>
+    <svg  viewBox="0 0 21 21" class="icon" fill="white">
+        <g fill="none" fill-rule="evenodd" stroke="white" stroke-linecap="round" stroke-linejoin="round" transform="translate(4 3)">
+            <path d="m10.595 10.5 2.905-3-2.905-3"/><path d="m13.5 7.5h-9"/>
+            <path d="m10.5.5-8 .00224609c-1.1043501.00087167-1.9994384.89621131-2 2.00056153v9.99438478c0 1.1045695.8954305 2 2 2h8.0954792"/>
+        </g>
+    </svg>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style lang="scss">
+
+.icon {
+    height: 100%;
+    width: 100%;
+    min-height: 1rem;
+    min-width: 1rem;
+}
+</style>
